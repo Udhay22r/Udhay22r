@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me
+### B.E. in AIML @ Bangalore Institute of Technology  
 
-<!--
-**Udhay22r/Udhay22r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **Computer vision & deep Learning**   
+- 👯 Looking to collaborate on **AIML projects**  
+- 💬 Ask me about **Python, ML, IoT, Web Development, Deep Learning**  
+- 📫 Reach me: [udhay22r@gmail.com](mailto:udhay22r@gmail.com)  
+- ⚡ Fun fact: I love solving real-world problems with AI 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages**: Python, JavaScript, C++  
+- **ML/AI**: Pytorch, OpenCV, Scikit-learn  
+- **Web**: React.js, Node.js, Firebase,HTML, CSS, REST APIs
+- **Databases**: MySQL, MongoDB, Firebase Realtime
+
+---
+
+### 🌐 Connect with me
+[LinkedIn](www.linkedin.com/in/udhay-22r) | [Portfolio](https://yourwebsite.com)
